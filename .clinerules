@@ -64,6 +64,8 @@ task_to_branch_mapping:
 - When updating the HDTA Review Progress Tracker, accurately reflect whether the document's content has been *read and reviewed* in the current session, not just whether the file exists or was created. The status checkboxes should reflect *my* processing of the document's content.
 - The GitOps workflow integration enables transparent supply chain management by automatically creating feature branches, committing changes with conventional commit messages, and pushing to remote repositories. This maintains a clean Git history and facilitates code review processes.
 
+[Character_Definitions]
+
 ```
 - `<`: Row **functionally relies on** or requires Column for context/operation.
 - `>`: Column **functionally relies on** or requires Row for context/operation.
