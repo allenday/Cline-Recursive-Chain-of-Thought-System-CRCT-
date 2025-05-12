@@ -11,12 +11,14 @@
 
 ## Current Work Focus:
 
+- 
+
 ## Next Steps:
 
 1. 
-2. 
-3. 
-4. 
 
 ## Active Decisions and Considerations:
 
+-
+-
+-
