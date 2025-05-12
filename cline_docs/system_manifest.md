@@ -25,17 +25,4 @@ Provides a structured framework for recursive chain-of-thought reasoning and pro
 4. Verify and resolve placeholder dependencies
 5. Proceed with the standard CRCT workflow (Strategy → Execution → Cleanup/Consolidation)
 
-## GitOps Integration
-The CRCT submodule includes built-in GitOps integration to ensure proper version control when used as a submodule:
-
-1. **Automatic Branch Management**: Creates feature branches based on task type and name
-2. **Conventional Commits**: Generates standardized commit messages
-3. **Seamless Integration**: Automatically performs Git operations at the beginning and end of task execution
-4. **Reminder System**: Includes a reminder system to ensure GitOps operations are not forgotten
-
-Key files:
-- `.clinerules`: Contains GitOps configuration in `[GITOPS_WORKFLOW]` and `[GITOPS_REMINDER]` sections
-- `cline_docs/prompts/gitops_plugin.md`: Detailed GitOps workflow instructions
-- `cline_docs/prompts/gitops_integration.md`: Submodule-specific integration instructions
-
 ## Version: 1.0 | Status: Setup
