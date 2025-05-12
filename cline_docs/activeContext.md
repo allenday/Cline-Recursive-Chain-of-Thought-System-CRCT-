@@ -16,9 +16,12 @@
 ## Next Steps:
 
 1. 
+2. 
+3. 
 
 ## Active Decisions and Considerations:
 
+- 
 - 
 - 
 - 
