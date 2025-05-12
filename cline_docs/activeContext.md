@@ -19,6 +19,6 @@
 
 ## Active Decisions and Considerations:
 
--
--
--
+- 
+- 
+- 
